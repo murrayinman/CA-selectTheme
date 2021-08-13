@@ -1,5 +1,5 @@
 # CA-selectTheme
-On 8/12/2021, I was testing a theme switcher that we've been working on and I was confused that there were two switcher options. 
+On 8/12/2021, I was testing a theme switcher in [my testing sandbox](https://riosalado.coursearc.com/content/sandbox-murz-testing-course/test-all-the-things/icon-and-text-block/) that we've been working on and I was confused that there were two switcher options. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![screenshot showing CourseArc (top) and Rio's (bottom) theme preview select menus](https://github.com/murrayinman/CA-selectTheme/blob/192403e3f9bcecb31f156aafbb741f1a41c0cbcd/twoThemeSelectors.png)
 
